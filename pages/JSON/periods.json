@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60ddac13b8b98f3b20954f28"
+  },
+  "PeriodName": "2014_Actual",
+  "StartDate": {
+    "$date": "2016-11-29T18:30:00Z"
+  },
+  "EndDate": {
+    "$date": "2016-11-29T18:30:00Z"
+  },
+  "Scenario": "Actual",
+  "Week": 49,
+  "Month": 8,
+  "Quarter": 0,
+  "Year": 2016
+},{
+  "_id": {
+    "$oid": "60ddac13b8b98f3b20954f29"
+  },
+  "PeriodName": "2014_Plan",
+  "StartDate": {
+    "$date": "2014-01-28T10:05:00Z"
+  },
+  "EndDate": {
+    "$date": "2014-01-28T10:05:00Z"
+  },
+  "Scenario": "Budget",
+  "Week": 5,
+  "Month": -2,
+  "Quarter": 0,
+  "Year": 2014
+},{
+  "_id": {
+    "$oid": "60ddac13b8b98f3b20954f2a"
+  },
+  "PeriodName": "2015_Plan",
+  "StartDate": {
+    "$date": "2014-12-31T18:30:00Z"
+  },
+  "EndDate": {
+    "$date": "2015-12-30T18:30:00Z"
+  },
+  "Scenario": "Budget",
+  "Week": 0,
+  "Month": 0,
+  "Quarter": 0,
+  "Year": 2015
+}]

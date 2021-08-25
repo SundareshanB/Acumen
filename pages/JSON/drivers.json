@@ -1,0 +1,2898 @@
+[{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f31"
+  },
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f32"
+  },
+  "DriverName": "#",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f33"
+  },
+  "DriverName": "$",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f34"
+  },
+  "DriverName": "%",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f35"
+  },
+  "DriverName": "&",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f36"
+  },
+  "DriverName": "@",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f37"
+  },
+  "DriverName": "~",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f38"
+  },
+  "DriverName": "Accounting Tax and Treasury",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f39"
+  },
+  "DriverName": "ArjunDriver1",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3a"
+  },
+  "DriverName": "ArjunDriver2",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3b"
+  },
+  "DriverName": "ARJUNTEST",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3c"
+  },
+  "DriverName": "asd",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3d"
+  },
+  "DriverName": "ASSOCIATE RECOGNITION PROGRAM_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3e"
+  },
+  "DriverName": "ASSOCIATE RECOGNITION PROGRAM_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f3f"
+  },
+  "DriverName": "AUDIT SERVICES_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f40"
+  },
+  "DriverName": "AUDIT SERVICES_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f41"
+  },
+  "DriverName": "AVIATION SERVICES_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f42"
+  },
+  "DriverName": "AVIATION SERVICES_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f43"
+  },
+  "DriverName": "BENEFITS AND COMP DEPT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f44"
+  },
+  "DriverName": "BENEFITS AND COMP DEPT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f45"
+  },
+  "DriverName": "Brand Management / Web Marketing",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f46"
+  },
+  "DriverName": "Business Sustaining",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f47"
+  },
+  "DriverName": "CALL CENTER - MUMBAI_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f48"
+  },
+  "DriverName": "CALL CENTER - MUMBAI_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f49"
+  },
+  "DriverName": "CALL CENTER - TULSA_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4a"
+  },
+  "DriverName": "CALL CENTER - TULSA_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4b"
+  },
+  "DriverName": "CAMPAIGN MANAGEMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4c"
+  },
+  "DriverName": "CAMPAIGN MANAGEMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4d"
+  },
+  "DriverName": "CFO AND EXECUTIVE ADMIN_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4e"
+  },
+  "DriverName": "CFO AND EXECUTIVE ADMIN_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f4f"
+  },
+  "DriverName": "COH_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Common"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f50"
+  },
+  "DriverName": "COMPTROLLER DEPARTMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f51"
+  },
+  "DriverName": "COMPTROLLER DEPARTMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f52"
+  },
+  "DriverName": "CONTROLLER'S DIVISION_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f53"
+  },
+  "DriverName": "CONTROLLER'S DIVISION_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f54"
+  },
+  "DriverName": "CORPORATE ACCOUNTING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f55"
+  },
+  "DriverName": "CORPORATE ACCOUNTING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f56"
+  },
+  "DriverName": "Corporate Aviation Services",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f57"
+  },
+  "DriverName": "CORPORATE PROCUREMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f58"
+  },
+  "DriverName": "CORPORATE PROCUREMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f59"
+  },
+  "DriverName": "CORPORATE TRAINING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5a"
+  },
+  "DriverName": "CORPORATE TRAINING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5b"
+  },
+  "DriverName": "COST MANAGEMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5c"
+  },
+  "DriverName": "COST MANAGEMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5d"
+  },
+  "DriverName": "Customer Care Services",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5e"
+  },
+  "DriverName": "Customer Care Services / New Customer Onboarding",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f5f"
+  },
+  "DriverName": "DESKTOP SUPPORT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f60"
+  },
+  "DriverName": "DESKTOP SUPPORT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f61"
+  },
+  "DriverName": "DISTRIBUTED SYSTEMS_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f62"
+  },
+  "DriverName": "DISTRIBUTED SYSTEMS_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f63"
+  },
+  "DriverName": "DriverTest",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f64"
+  },
+  "DriverName": "EXECUTIVE ADMIN_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f65"
+  },
+  "DriverName": "EXECUTIVE ADMIN_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f66"
+  },
+  "DriverName": "FIN_HQS_COH_001_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f67"
+  },
+  "DriverName": "FIN_HQS_COH_002_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f68"
+  },
+  "DriverName": "FIN_HQS_COH_003_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f69"
+  },
+  "DriverName": "FIN_HQS_COH_004_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6a"
+  },
+  "DriverName": "FIN_HQS_COH_005_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6b"
+  },
+  "DriverName": "FIN_HQS_COH_006_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6c"
+  },
+  "DriverName": "FIN_HQS_COH_007_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6d"
+  },
+  "DriverName": "FIN_HQS_FIN_001_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6e"
+  },
+  "DriverName": "FIN_HQS_FIN_002_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f6f"
+  },
+  "DriverName": "FIN_HQS_FIN_003_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f70"
+  },
+  "DriverName": "FIN_HQS_FIN_004_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f71"
+  },
+  "DriverName": "FIN_HQS_FIN_005_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f72"
+  },
+  "DriverName": "FIN_HQS_FIN_006_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f73"
+  },
+  "DriverName": "FIN_HQS_FIN_007_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f74"
+  },
+  "DriverName": "FIN_HQS_FIN_008_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f75"
+  },
+  "DriverName": "FIN_HQS_HRS_001_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f76"
+  },
+  "DriverName": "FIN_HQS_HRS_002_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f77"
+  },
+  "DriverName": "FIN_HQS_HRS_003_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f78"
+  },
+  "DriverName": "FIN_HQS_HRS_004_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f79"
+  },
+  "DriverName": "FIN_HQS_HRS_005_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7a"
+  },
+  "DriverName": "FIN_HQS_HRS_006_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7b"
+  },
+  "DriverName": "FIN_HQS_HRS_007_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7c"
+  },
+  "DriverName": "FIN_HQS_ITS_001_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7d"
+  },
+  "DriverName": "FIN_HQS_ITS_002_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7e"
+  },
+  "DriverName": "FIN_HQS_ITS_003_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f7f"
+  },
+  "DriverName": "FIN_HQS_ITS_004_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f80"
+  },
+  "DriverName": "FIN_HQS_ITS_005_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f81"
+  },
+  "DriverName": "FIN_HQS_ITS_006_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f82"
+  },
+  "DriverName": "FIN_HQS_ITS_007_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f83"
+  },
+  "DriverName": "FIN_HQS_ITS_008_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f84"
+  },
+  "DriverName": "FIN_HQS_ITS_009_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f85"
+  },
+  "DriverName": "FIN_HQS_MKT_001_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f86"
+  },
+  "DriverName": "FIN_HQS_MKT_002_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f87"
+  },
+  "DriverName": "FIN_HQS_MKT_003_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f88"
+  },
+  "DriverName": "FIN_HQS_MKT_004_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f89"
+  },
+  "DriverName": "FIN_HQS_OPS_ADM_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8a"
+  },
+  "DriverName": "FIN_HQS_OPS_CDV_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8b"
+  },
+  "DriverName": "FIN_HQS_OPS_CLT_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8c"
+  },
+  "DriverName": "FIN_HQS_OPS_CMB_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8d"
+  },
+  "DriverName": "FIN_HQS_OPS_FTL_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8e"
+  },
+  "DriverName": "FIN_HQS_OPS_MUM_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f8f"
+  },
+  "DriverName": "FIN_HQS_OPS_OPS_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f90"
+  },
+  "DriverName": "FIN_HQS_OPS_TUL_Recovery",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f91"
+  },
+  "DriverName": "FINANCIAL PLANNING & REPORTING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f92"
+  },
+  "DriverName": "FINANCIAL PLANNING & REPORTING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f93"
+  },
+  "DriverName": "FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f94"
+  },
+  "DriverName": "FTE HR Charges",
+  "DriverType": "Basic",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f95"
+  },
+  "DriverName": "FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f96"
+  },
+  "DriverName": "Fulfilment / Specialized Product Support Services",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f97"
+  },
+  "DriverName": "FULFILMENT CENTER - CHARLOTTE_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f98"
+  },
+  "DriverName": "FULFILMENT CENTER - CHARLOTTE_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f99"
+  },
+  "DriverName": "FULFILMENT CENTER - DENVER_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9a"
+  },
+  "DriverName": "FULFILMENT CENTER - DENVER_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9b"
+  },
+  "DriverName": "FULFILMENT CENTER - MUMBAI_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9c"
+  },
+  "DriverName": "FULFILMENT CENTER - MUMBAI_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9d"
+  },
+  "DriverName": "FULFILMENT CENTER - TULSA_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9e"
+  },
+  "DriverName": "FULFILMENT CENTER - TULSA_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954f9f"
+  },
+  "DriverName": "HOST SERVICES_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa0"
+  },
+  "DriverName": "HOST SERVICES_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa1"
+  },
+  "DriverName": "HR PERFORMANCE MEASUREMENTS_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa2"
+  },
+  "DriverName": "HR PERFORMANCE MEASUREMENTS_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa3"
+  },
+  "DriverName": "HR RECRUITING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa4"
+  },
+  "DriverName": "HR RECRUITING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa5"
+  },
+  "DriverName": "Internal Audit and Controls",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa6"
+  },
+  "DriverName": "INTERNAL CONTROLS_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa7"
+  },
+  "DriverName": "INTERNAL CONTROLS_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa8"
+  },
+  "DriverName": "INVESTOR RELATIONS/CORP GOVERNANCE_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fa9"
+  },
+  "DriverName": "INVESTOR RELATIONS/CORP GOVERNANCE_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954faa"
+  },
+  "DriverName": "IT Apps",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fab"
+  },
+  "DriverName": "IT SERVICE DELIVERY_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fac"
+  },
+  "DriverName": "IT SERVICE DELIVERY_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fad"
+  },
+  "DriverName": "IT Support",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fae"
+  },
+  "DriverName": "LAN/WAN SUPPORT SERVICES_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954faf"
+  },
+  "DriverName": "LAN/WAN SUPPORT SERVICES_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb0"
+  },
+  "DriverName": "LEADERSHIP & ORG DEVELOPMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb1"
+  },
+  "DriverName": "LEADERSHIP & ORG DEVELOPMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb2"
+  },
+  "DriverName": "LEGAL DEPARTMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb3"
+  },
+  "DriverName": "LEGAL DEPARTMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb4"
+  },
+  "DriverName": "MARKET RESEARCH_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb5"
+  },
+  "DriverName": "MARKET RESEARCH_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb6"
+  },
+  "DriverName": "NETWORK SERVICES_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb7"
+  },
+  "DriverName": "NETWORK SERVICES_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb8"
+  },
+  "DriverName": "OPERATIONS ADMIN_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fb9"
+  },
+  "DriverName": "OPERATIONS ADMIN_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fba"
+  },
+  "DriverName": "Operations Quality Assurance",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fbb"
+  },
+  "DriverName": "OPERATIONS SUPPORT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fbc"
+  },
+  "DriverName": "OPERATIONS SUPPORT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fbd"
+  },
+  "DriverName": "Overhead Allocation",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fbe"
+  },
+  "DriverName": "PAYROLL DEPARTMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fbf"
+  },
+  "DriverName": "PAYROLL DEPARTMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc0"
+  },
+  "DriverName": "Planning and Finance Support",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc1"
+  },
+  "DriverName": "PRINTING AND PUBLISHING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc2"
+  },
+  "DriverName": "PRINTING AND PUBLISHING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc3"
+  },
+  "DriverName": "Product Management and Logistics",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc4"
+  },
+  "DriverName": "PROGRAMMING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc5"
+  },
+  "DriverName": "PROGRAMMING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc6"
+  },
+  "DriverName": "Recruiting Services",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc7"
+  },
+  "DriverName": "Regional Campaign Management",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc8"
+  },
+  "DriverName": "RES_HQS_COH_001_111_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fc9"
+  },
+  "DriverName": "RES_HQS_COH_001_907_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fca"
+  },
+  "DriverName": "RES_HQS_COH_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fcb"
+  },
+  "DriverName": "RES_HQS_COH_002_909_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fcc"
+  },
+  "DriverName": "RES_HQS_COH_002_911_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fcd"
+  },
+  "DriverName": "RES_HQS_COH_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fce"
+  },
+  "DriverName": "RES_HQS_COH_003_903_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fcf"
+  },
+  "DriverName": "RES_HQS_COH_003_904_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd0"
+  },
+  "DriverName": "RES_HQS_COH_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd1"
+  },
+  "DriverName": "RES_HQS_COH_004_908_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd2"
+  },
+  "DriverName": "RES_HQS_COH_004_913_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd3"
+  },
+  "DriverName": "RES_HQS_COH_004_914_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd4"
+  },
+  "DriverName": "RES_HQS_COH_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd5"
+  },
+  "DriverName": "RES_HQS_COH_005_901_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd6"
+  },
+  "DriverName": "RES_HQS_COH_005_912_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd7"
+  },
+  "DriverName": "RES_HQS_COH_005_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd8"
+  },
+  "DriverName": "RES_HQS_COH_006_910_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fd9"
+  },
+  "DriverName": "RES_HQS_COH_006_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fda"
+  },
+  "DriverName": "RES_HQS_COH_007_333_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fdb"
+  },
+  "DriverName": "RES_HQS_COH_007_902_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fdc"
+  },
+  "DriverName": "RES_HQS_COH_007_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fdd"
+  },
+  "DriverName": "RES_HQS_FIN_001_807_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fde"
+  },
+  "DriverName": "RES_HQS_FIN_001_811_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fdf"
+  },
+  "DriverName": "RES_HQS_FIN_001_813_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe0"
+  },
+  "DriverName": "RES_HQS_FIN_001_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe1"
+  },
+  "DriverName": "RES_HQS_FIN_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe2"
+  },
+  "DriverName": "RES_HQS_FIN_002_807_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe3"
+  },
+  "DriverName": "RES_HQS_FIN_002_813_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe4"
+  },
+  "DriverName": "RES_HQS_FIN_002_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe5"
+  },
+  "DriverName": "RES_HQS_FIN_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe6"
+  },
+  "DriverName": "RES_HQS_FIN_003_111_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe7"
+  },
+  "DriverName": "RES_HQS_FIN_003_803_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe8"
+  },
+  "DriverName": "RES_HQS_FIN_003_809_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fe9"
+  },
+  "DriverName": "RES_HQS_FIN_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fea"
+  },
+  "DriverName": "RES_HQS_FIN_004_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954feb"
+  },
+  "DriverName": "RES_HQS_FIN_004_808_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fec"
+  },
+  "DriverName": "RES_HQS_FIN_004_814_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fed"
+  },
+  "DriverName": "RES_HQS_FIN_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fee"
+  },
+  "DriverName": "RES_HQS_FIN_005_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fef"
+  },
+  "DriverName": "RES_HQS_FIN_005_808_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff0"
+  },
+  "DriverName": "RES_HQS_FIN_005_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff1"
+  },
+  "DriverName": "RES_HQS_FIN_006_802_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff2"
+  },
+  "DriverName": "RES_HQS_FIN_006_810_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff3"
+  },
+  "DriverName": "RES_HQS_FIN_006_815_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff4"
+  },
+  "DriverName": "RES_HQS_FIN_006_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff5"
+  },
+  "DriverName": "RES_HQS_FIN_007_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff6"
+  },
+  "DriverName": "RES_HQS_FIN_007_812_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff7"
+  },
+  "DriverName": "RES_HQS_FIN_007_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff8"
+  },
+  "DriverName": "RES_HQS_FIN_007_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ff9"
+  },
+  "DriverName": "RES_HQS_FIN_008_333_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ffa"
+  },
+  "DriverName": "RES_HQS_FIN_008_804_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ffb"
+  },
+  "DriverName": "RES_HQS_FIN_008_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ffc"
+  },
+  "DriverName": "RES_HQS_HRS_001_707_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ffd"
+  },
+  "DriverName": "RES_HQS_HRS_001_708_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954ffe"
+  },
+  "DriverName": "RES_HQS_HRS_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20954fff"
+  },
+  "DriverName": "RES_HQS_HRS_002_706_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955000"
+  },
+  "DriverName": "RES_HQS_HRS_002_711_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955001"
+  },
+  "DriverName": "RES_HQS_HRS_002_722_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955002"
+  },
+  "DriverName": "RES_HQS_HRS_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955003"
+  },
+  "DriverName": "RES_HQS_HRS_003_710_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955004"
+  },
+  "DriverName": "RES_HQS_HRS_003_716_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955005"
+  },
+  "DriverName": "RES_HQS_HRS_003_721_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955006"
+  },
+  "DriverName": "RES_HQS_HRS_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955007"
+  },
+  "DriverName": "RES_HQS_HRS_004_222_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955008"
+  },
+  "DriverName": "RES_HQS_HRS_004_701_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955009"
+  },
+  "DriverName": "RES_HQS_HRS_004_702_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500a"
+  },
+  "DriverName": "RES_HQS_HRS_004_703_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500b"
+  },
+  "DriverName": "RES_HQS_HRS_004_705_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500c"
+  },
+  "DriverName": "RES_HQS_HRS_004_710_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500d"
+  },
+  "DriverName": "RES_HQS_HRS_004_712_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500e"
+  },
+  "DriverName": "RES_HQS_HRS_004_713_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095500f"
+  },
+  "DriverName": "RES_HQS_HRS_004_714_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955010"
+  },
+  "DriverName": "RES_HQS_HRS_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955011"
+  },
+  "DriverName": "RES_HQS_HRS_005_710_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955012"
+  },
+  "DriverName": "RES_HQS_HRS_005_715_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955013"
+  },
+  "DriverName": "RES_HQS_HRS_005_719_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955014"
+  },
+  "DriverName": "RES_HQS_HRS_005_721_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955015"
+  },
+  "DriverName": "RES_HQS_HRS_005_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955016"
+  },
+  "DriverName": "RES_HQS_HRS_006_710_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955017"
+  },
+  "DriverName": "RES_HQS_HRS_006_718_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955018"
+  },
+  "DriverName": "RES_HQS_HRS_006_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955019"
+  },
+  "DriverName": "RES_HQS_HRS_007_704_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501a"
+  },
+  "DriverName": "RES_HQS_HRS_007_717_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501b"
+  },
+  "DriverName": "RES_HQS_HRS_007_720_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501c"
+  },
+  "DriverName": "RES_HQS_HRS_007_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501d"
+  },
+  "DriverName": "RES_HQS_ITS_001_333_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501e"
+  },
+  "DriverName": "RES_HQS_ITS_001_602_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095501f"
+  },
+  "DriverName": "RES_HQS_ITS_001_606_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955020"
+  },
+  "DriverName": "RES_HQS_ITS_001_609_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955021"
+  },
+  "DriverName": "RES_HQS_ITS_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955022"
+  },
+  "DriverName": "RES_HQS_ITS_002_607_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955023"
+  },
+  "DriverName": "RES_HQS_ITS_002_612_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955024"
+  },
+  "DriverName": "RES_HQS_ITS_002_616_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955025"
+  },
+  "DriverName": "RES_HQS_ITS_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955026"
+  },
+  "DriverName": "RES_HQS_ITS_003_603_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955027"
+  },
+  "DriverName": "RES_HQS_ITS_003_605_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955028"
+  },
+  "DriverName": "RES_HQS_ITS_003_614_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955029"
+  },
+  "DriverName": "RES_HQS_ITS_003_620_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502a"
+  },
+  "DriverName": "RES_HQS_ITS_003_622_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502b"
+  },
+  "DriverName": "RES_HQS_ITS_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502c"
+  },
+  "DriverName": "RES_HQS_ITS_004_601_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502d"
+  },
+  "DriverName": "RES_HQS_ITS_004_611_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502e"
+  },
+  "DriverName": "RES_HQS_ITS_004_613_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095502f"
+  },
+  "DriverName": "RES_HQS_ITS_004_623_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955030"
+  },
+  "DriverName": "RES_HQS_ITS_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955031"
+  },
+  "DriverName": "RES_HQS_ITS_005_604_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955032"
+  },
+  "DriverName": "RES_HQS_ITS_005_615_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955033"
+  },
+  "DriverName": "RES_HQS_ITS_005_621_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955034"
+  },
+  "DriverName": "RES_HQS_ITS_005_624_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955035"
+  },
+  "DriverName": "RES_HQS_ITS_005_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955036"
+  },
+  "DriverName": "RES_HQS_ITS_006_619_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955037"
+  },
+  "DriverName": "RES_HQS_ITS_006_625_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955038"
+  },
+  "DriverName": "RES_HQS_ITS_006_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955039"
+  },
+  "DriverName": "RES_HQS_ITS_007_601_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503a"
+  },
+  "DriverName": "RES_HQS_ITS_007_610_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503b"
+  },
+  "DriverName": "RES_HQS_ITS_007_612_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503c"
+  },
+  "DriverName": "RES_HQS_ITS_007_623_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503d"
+  },
+  "DriverName": "RES_HQS_ITS_007_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503e"
+  },
+  "DriverName": "RES_HQS_ITS_008_617_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095503f"
+  },
+  "DriverName": "RES_HQS_ITS_008_625_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955040"
+  },
+  "DriverName": "RES_HQS_ITS_008_627_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955041"
+  },
+  "DriverName": "RES_HQS_ITS_008_628_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955042"
+  },
+  "DriverName": "RES_HQS_ITS_008_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955043"
+  },
+  "DriverName": "RES_HQS_ITS_009_618_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955044"
+  },
+  "DriverName": "RES_HQS_ITS_009_626_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955045"
+  },
+  "DriverName": "RES_HQS_ITS_009_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955046"
+  },
+  "DriverName": "RES_HQS_MKT_001_501_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955047"
+  },
+  "DriverName": "RES_HQS_MKT_001_502_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955048"
+  },
+  "DriverName": "RES_HQS_MKT_001_504_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955049"
+  },
+  "DriverName": "RES_HQS_MKT_001_513_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504a"
+  },
+  "DriverName": "RES_HQS_MKT_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504b"
+  },
+  "DriverName": "RES_HQS_MKT_002_503_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504c"
+  },
+  "DriverName": "RES_HQS_MKT_002_504_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504d"
+  },
+  "DriverName": "RES_HQS_MKT_002_505_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504e"
+  },
+  "DriverName": "RES_HQS_MKT_002_506_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095504f"
+  },
+  "DriverName": "RES_HQS_MKT_002_514_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955050"
+  },
+  "DriverName": "RES_HQS_MKT_002_515_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955051"
+  },
+  "DriverName": "RES_HQS_MKT_002_516_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955052"
+  },
+  "DriverName": "RES_HQS_MKT_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955053"
+  },
+  "DriverName": "RES_HQS_MKT_003_507_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955054"
+  },
+  "DriverName": "RES_HQS_MKT_003_508_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955055"
+  },
+  "DriverName": "RES_HQS_MKT_003_515_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955056"
+  },
+  "DriverName": "RES_HQS_MKT_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955057"
+  },
+  "DriverName": "RES_HQS_MKT_004_509_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955058"
+  },
+  "DriverName": "RES_HQS_MKT_004_510_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955059"
+  },
+  "DriverName": "RES_HQS_MKT_004_511_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505a"
+  },
+  "DriverName": "RES_HQS_MKT_004_512_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505b"
+  },
+  "DriverName": "RES_HQS_MKT_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505c"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_111_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505d"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_222_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505e"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_333_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095505f"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_402_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955060"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_408_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955061"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_409_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955062"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_417_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955063"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_424_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955064"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_425_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955065"
+  },
+  "DriverName": "RES_HQS_OPS_ADM_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955066"
+  },
+  "DriverName": "RES_HQS_OPS_CDV_413_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955067"
+  },
+  "DriverName": "RES_HQS_OPS_CDV_414_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955068"
+  },
+  "DriverName": "RES_HQS_OPS_CDV_415_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955069"
+  },
+  "DriverName": "RES_HQS_OPS_CDV_416_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506a"
+  },
+  "DriverName": "RES_HQS_OPS_CDV_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506b"
+  },
+  "DriverName": "RES_HQS_OPS_CLT_413_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506c"
+  },
+  "DriverName": "RES_HQS_OPS_CLT_414_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506d"
+  },
+  "DriverName": "RES_HQS_OPS_CLT_415_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506e"
+  },
+  "DriverName": "RES_HQS_OPS_CLT_416_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095506f"
+  },
+  "DriverName": "RES_HQS_OPS_CLT_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955070"
+  },
+  "DriverName": "RES_HQS_OPS_CMB_413_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955071"
+  },
+  "DriverName": "RES_HQS_OPS_CMB_414_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955072"
+  },
+  "DriverName": "RES_HQS_OPS_CMB_415_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955073"
+  },
+  "DriverName": "RES_HQS_OPS_CMB_416_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955074"
+  },
+  "DriverName": "RES_HQS_OPS_CMB_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955075"
+  },
+  "DriverName": "RES_HQS_OPS_FTL_413_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955076"
+  },
+  "DriverName": "RES_HQS_OPS_FTL_414_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955077"
+  },
+  "DriverName": "RES_HQS_OPS_FTL_415_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955078"
+  },
+  "DriverName": "RES_HQS_OPS_FTL_416_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955079"
+  },
+  "DriverName": "RES_HQS_OPS_FTL_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507a"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_401_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507b"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_403_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507c"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_404_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507d"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_405_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507e"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_406_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095507f"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_407_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955080"
+  },
+  "DriverName": "RES_HQS_OPS_MUM_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955081"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_418_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955082"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_419_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955083"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_420_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955084"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_421_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955085"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_422_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955086"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_423_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955087"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_428_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955088"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_429_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955089"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_511_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508a"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_512_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508b"
+  },
+  "DriverName": "RES_HQS_OPS_OPS_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508c"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_401_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508d"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_403_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508e"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_404_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095508f"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_405_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955090"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_406_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955091"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_407_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955092"
+  },
+  "DriverName": "RES_HQS_OPS_TUL_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955093"
+  },
+  "DriverName": "RES_HQS_RES_001_807_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955094"
+  },
+  "DriverName": "RES_HQS_RES_001_811_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955095"
+  },
+  "DriverName": "RES_HQS_RES_001_813_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955096"
+  },
+  "DriverName": "RES_HQS_RES_001_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955097"
+  },
+  "DriverName": "RES_HQS_RES_001_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955098"
+  },
+  "DriverName": "RES_HQS_RES_002_807_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b20955099"
+  },
+  "DriverName": "RES_HQS_RES_002_813_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509a"
+  },
+  "DriverName": "RES_HQS_RES_002_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509b"
+  },
+  "DriverName": "RES_HQS_RES_002_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509c"
+  },
+  "DriverName": "RES_HQS_RES_003_111_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509d"
+  },
+  "DriverName": "RES_HQS_RES_003_803_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509e"
+  },
+  "DriverName": "RES_HQS_RES_003_809_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b2095509f"
+  },
+  "DriverName": "RES_HQS_RES_003_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a0"
+  },
+  "DriverName": "RES_HQS_RES_004_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a1"
+  },
+  "DriverName": "RES_HQS_RES_004_808_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a2"
+  },
+  "DriverName": "RES_HQS_RES_004_814_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a3"
+  },
+  "DriverName": "RES_HQS_RES_004_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a4"
+  },
+  "DriverName": "RES_HQS_RES_005_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a5"
+  },
+  "DriverName": "RES_HQS_RES_005_808_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a6"
+  },
+  "DriverName": "RES_HQS_RES_005_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a7"
+  },
+  "DriverName": "RES_HQS_RES_006_802_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a8"
+  },
+  "DriverName": "RES_HQS_RES_006_810_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550a9"
+  },
+  "DriverName": "RES_HQS_RES_006_815_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550aa"
+  },
+  "DriverName": "RES_HQS_RES_006_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ab"
+  },
+  "DriverName": "RES_HQS_RES_007_801_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ac"
+  },
+  "DriverName": "RES_HQS_RES_007_812_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ad"
+  },
+  "DriverName": "RES_HQS_RES_007_816_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ae"
+  },
+  "DriverName": "RES_HQS_RES_007_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550af"
+  },
+  "DriverName": "RES_HQS_RES_008_333_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b0"
+  },
+  "DriverName": "RES_HQS_RES_008_804_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b1"
+  },
+  "DriverName": "RES_HQS_RES_008_Hours",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b2"
+  },
+  "DriverName": "Revenue Accounting",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b3"
+  },
+  "DriverName": "REVENUE ACCOUNTING_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b4"
+  },
+  "DriverName": "REVENUE ACCOUNTING_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b5"
+  },
+  "DriverName": "RT",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b6"
+  },
+  "DriverName": "S4_Driver",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b7"
+  },
+  "DriverName": "SALES AND PRODUCT MANAGEMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b8"
+  },
+  "DriverName": "SALES AND PRODUCT MANAGEMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550b9"
+  },
+  "DriverName": "SOFTWARE MAINTENANCE_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ba"
+  },
+  "DriverName": "SOFTWARE MAINTENANCE_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550bb"
+  },
+  "DriverName": "T",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550bc"
+  },
+  "DriverName": "TAR",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550bd"
+  },
+  "DriverName": "TAX DEPARTMENT_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550be"
+  },
+  "DriverName": "TAX DEPARTMENT_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550bf"
+  },
+  "DriverName": "TDX",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c0"
+  },
+  "DriverName": "Technology Governance and Security",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c1"
+  },
+  "DriverName": "TELECOM ALLOCATIONS_FTE",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c2"
+  },
+  "DriverName": "TELECOM ALLOCATIONS_FTE_Weighted",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c3"
+  },
+  "DriverName": "TER",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c4"
+  },
+  "DriverName": "Test_driver",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c5"
+  },
+  "DriverName": "Test123445",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c6"
+  },
+  "DriverName": "THX",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c7"
+  },
+  "DriverName": "THXX",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c8"
+  },
+  "DriverName": "Training Services",
+  "DriverType": "Basic",
+  "DriverAssociation": "Specific"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550c9"
+  },
+  "DriverName": "TRE",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ca"
+  },
+  "DriverName": "TT",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550cb"
+  },
+  "DriverName": "TY",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550cc"
+  },
+  "DriverName": "UFO",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550cd"
+  },
+  "DriverName": "Yoyo",
+  "DriverType": "BASIC",
+  "DriverAssociation": "COMMON"
+},{
+  "_id": {
+    "$oid": "60ddacc2b8b98f3b209550ce"
+  },
+  "DriverName": "YTS",
+  "DriverType": "BASIC",
+  "DriverAssociation": "SPECIFIC"
+}]

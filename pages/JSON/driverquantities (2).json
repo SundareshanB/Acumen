@@ -1,0 +1,1502 @@
+[{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955307"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_501_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 1500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955308"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_501_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 1500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955309"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530a"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530b"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530c"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530d"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530e"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095530f"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 3000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955310"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 3000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955311"
+  },
+  "Dest_Ref_Num": "ACT_1_1_1",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 3000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7d"
+      },
+      "Ref_Num": "ACT_1_1_1",
+      "Name": "Perform customer and market intelligence analysis",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955312"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_501_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955313"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_501_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955314"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_501_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955315"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955316"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955317"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955318"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955319"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531a"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_504_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531b"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531c"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531d"
+  },
+  "Dest_Ref_Num": "ACT_1_1_2",
+  "Driver": "RES_HQS_MKT_001_513_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 1000,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7e"
+      },
+      "Ref_Num": "ACT_1_1_2",
+      "Name": "Evaluate and prioritize market opportunities",
+      "Parent_Ref_Num": "ACT_1_1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531e"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095531f"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955320"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955321"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955322"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955323"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955324"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955325"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955326"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955327"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955328"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955329"
+  },
+  "Dest_Ref_Num": "ACT_1_2_1",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d7f"
+      },
+      "Ref_Num": "ACT_1_2_1",
+      "Name": "Define offering and customer value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532a"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532b"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532c"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532d"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532e"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095532f"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955330"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955331"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955332"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955333"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955334"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955335"
+  },
+  "Dest_Ref_Num": "ACT_1_2_2",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d80"
+      },
+      "Ref_Num": "ACT_1_2_2",
+      "Name": "Define pricing strategy to align to value proposition",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955336"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955337"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955338"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955339"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533a"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533b"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_503_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533c"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533d"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533e"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_504_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095533f"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955340"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955341"
+  },
+  "Dest_Ref_Num": "ACT_1_2_3",
+  "Driver": "RES_HQS_MKT_002_514_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d81"
+      },
+      "Ref_Num": "ACT_1_2_3",
+      "Name": "Define and manage channel strategy",
+      "Parent_Ref_Num": "ACT_1_2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955342"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955343"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955344"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955345"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955346"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955347"
+  },
+  "Dest_Ref_Num": "ACT_1_3_1",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d82"
+      },
+      "Ref_Num": "ACT_1_3_1",
+      "Name": "Develop sales forecast",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955348"
+  },
+  "Dest_Ref_Num": "ACT_1_3_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d83"
+      },
+      "Ref_Num": "ACT_1_3_2",
+      "Name": "Develop sales partner/alliance relationship",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955349"
+  },
+  "Dest_Ref_Num": "ACT_1_3_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d83"
+      },
+      "Ref_Num": "ACT_1_3_2",
+      "Name": "Develop sales partner/alliance relationship",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534a"
+  },
+  "Dest_Ref_Num": "ACT_1_3_2",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d83"
+      },
+      "Ref_Num": "ACT_1_3_2",
+      "Name": "Develop sales partner/alliance relationship",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534b"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534c"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534d"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_001_502_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 100,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534e"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b2095534f"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955350"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_509_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 500,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955351"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_510_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955352"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_510_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955353"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_510_Hours",
+  "Period": "2015_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955354"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_511_Hours",
+  "Period": "2014_Actual",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ddadfbb8b98f3b20955355"
+  },
+  "Dest_Ref_Num": "ACT_1_3_3",
+  "Driver": "RES_HQS_MKT_004_511_Hours",
+  "Period": "2014_Plan",
+  "Driver_Qty": 250,
+  "Driver_Wt": 1,
+  "DriverQty": [
+    {
+      "_id": {
+        "$oid": "60dda8dfb8b98f3b20954d84"
+      },
+      "Ref_Num": "ACT_1_3_3",
+      "Name": "Establish overall sales budget",
+      "Parent_Ref_Num": "ACT_1_3"
+    }
+  ]
+}]
