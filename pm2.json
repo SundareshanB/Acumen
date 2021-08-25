@@ -1,0 +1,17 @@
+{
+    "apps" : [{
+      "name"   : "Acumen backend",
+      "script" : "dist/index.js",
+      "env": {
+         "PORT":3000,
+         "NODE_ENV": "production",
+         "DB_ENV":"mongodb+srv://prevaj:Mongo1234@cluster0.nwb44.mongodb.net/Acumen_DB?retryWrites=true&w=majority"
+      },
+      "env_development": {
+         "PORT":3000,
+         "NODE_ENV": "development",
+         "DB_ENV":"mongodb+srv://prevaj:Mongo1234@cluster0.nwb44.mongodb.net/Acumen_DB?retryWrites=true&w=majority"
+      }
+    }
+]
+}

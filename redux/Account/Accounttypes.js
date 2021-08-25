@@ -1,2 +1,0 @@
-export const ACCOUNT_DETAILS = "ACCOUNT_DETAILS"
-export const ACCOUNT_TABLE = "ACCOUNT_TABLE"
