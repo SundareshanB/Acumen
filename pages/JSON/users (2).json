@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60dddeab271e7b1dc8ca8d59"
+  },
+  "fullName": "Arjun",
+  "username": "arjunv",
+  "email": "arjunv@prevaj.com",
+  "password": "a123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb76b9f1f335410eddb38"
+  },
+  "fullName": "Sundareshn",
+  "username": "sundareshnb",
+  "email": "sundareshnb@prevaj.com",
+  "password": "s123",
+  "__v": 0
+}]

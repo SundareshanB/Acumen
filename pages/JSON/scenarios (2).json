@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f2b"
+  },
+  "Name": "2017_Actual"
+},{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f2c"
+  },
+  "Name": "2017_Plan"
+},{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f2d"
+  },
+  "Name": "2018_Plan"
+},{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f2e"
+  },
+  "Name": "Actual"
+},{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f2f"
+  },
+  "Name": "Budget"
+},{
+  "_id": {
+    "$oid": "60ddac36b8b98f3b20954f30"
+  },
+  "Name": "Forecast"
+}]
