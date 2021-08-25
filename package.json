@@ -1,32 +1,70 @@
 {
-  "name": "acumen1",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev -p 5000",
-    "build": "next build",
-    "start": "next start -p 5000",
-    "lint": "next lint"
+  "name": "acumenapi",
+  "version": "0.0.1",
+  "description": "Acumen Web Services",
+  "keywords": [
+    "loopback-application",
+    "loopback"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "engines": {
+    "node": ">=10.16"
   },
+  "scripts": {
+    "build": "lb-tsc",
+    "build:watch": "lb-tsc --watch",
+    "lint": "npm run eslint && npm run prettier:check",
+    "lint:fix": "npm run eslint:fix && npm run prettier:fix",
+    "prettier:cli": "lb-prettier \"**/*.ts\" \"**/*.js\"",
+    "prettier:check": "npm run prettier:cli -- -l",
+    "prettier:fix": "npm run prettier:cli -- --write",
+    "eslint": "lb-eslint --report-unused-disable-directives .",
+    "eslint:fix": "npm run eslint -- --fix",
+    "pretest": "npm run rebuild",
+    "test": "lb-mocha --allow-console-logs \"dist/__tests__\"",
+    "posttest": "npm run lint",
+    "test:dev": "lb-mocha --allow-console-logs dist/__tests__/**/*.js && npm run posttest",
+    "docker:build": "docker build -t acumenapi .",
+    "docker:run": "docker run -p 3000:3000 -d acumenapi",
+    "premigrate": "npm run build",
+    "migrate": "node ./dist/migrate",
+    "preopenapi-spec": "npm run build",
+    "openapi-spec": "node ./dist/openapi-spec",
+    "prestart": "npm run rebuild",
+    "start": "node -r source-map-support/register .",
+    "clean": "lb-clean dist *.tsbuildinfo .eslintcache",
+    "rebuild": "npm run clean && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "praveen2651 <praveensoftwarez@gmail.com>",
+  "license": "",
+  "files": [
+    "README.md",
+    "dist",
+    "src",
+    "!*/__tests__"
+  ],
   "dependencies": {
-    "@material-ui/core": "^4.12.1",
-    "@material-ui/icons": "^4.11.2",
-    "@material-ui/lab": "^4.0.0-alpha.60",
-    "axios": "^0.21.1",
-    "chart.js": "^3.5.0",
-    "next": "^10.0.0",
-    "next-redux-wrapper": "^7.0.2",
-    "react": "^17.0.2",
-    "react-chartjs-2": "^3.0.4",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.4",
-    "redux": "^4.1.0",
-    "redux-thunk": "^2.3.0",
-    "web-vitals": "^2.1.0",
-    "xlsx": "^0.17.0"
+    "@loopback/boot": "^3.4.1",
+    "@loopback/core": "^2.16.1",
+    "@loopback/repository": "^3.7.0",
+    "@loopback/rest": "^9.3.1",
+    "@loopback/rest-explorer": "^3.3.1",
+    "@loopback/service-proxy": "^3.2.1",
+    "loopback-connector-mongodb": "^5.5.0",
+    "tslib": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "7.30.0",
-    "eslint-config-next": "11.0.1"
+    "@loopback/build": "^6.4.1",
+    "source-map-support": "^0.5.19",
+    "@loopback/testlab": "^3.4.1",
+    "@types/node": "^10.17.60",
+    "@loopback/eslint-config": "^10.2.1",
+    "eslint": "^7.28.0",
+    "typescript": "~4.3.2"
   }
 }

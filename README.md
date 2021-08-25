@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# acumenapi
 
-## Getting Started
+This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
+[initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
-First, run the development server:
+## Install dependencies
 
-```bash
-npm run dev
-# or
-yarn dev
+By default, dependencies were installed when this application was generated.
+Whenever dependencies in `package.json` are changed, run the following command:
+
+```sh
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To only install resolved dependencies in `package-lock.json`:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+npm ci
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Run the application
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```sh
+npm start
+```
 
-## Learn More
+You can also run `node .` to skip the build step.
 
-To learn more about Next.js, take a look at the following resources:
+Open http://127.0.0.1:3000 in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Rebuild the project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To incrementally build the project:
 
-## Deploy on Vercel
+```sh
+npm run build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To force a full build by cleaning up cached artifacts:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```sh
+npm run rebuild
+```
+
+## Fix code style and formatting issues
+
+```sh
+npm run lint
+```
+
+To automatically fix such issues:
+
+```sh
+npm run lint:fix
+```
+
+## Other useful commands
+
+- `npm run migrate`: Migrate database schemas for models
+- `npm run openapi-spec`: Generate OpenAPI spec into a file
+- `npm run docker:build`: Build a Docker image for this application
+- `npm run docker:run`: Run this application inside a Docker container
+
+## Tests
+
+```sh
+npm test
+```
+
+## What's next
+
+Please check out [LoopBack 4 documentation](https://loopback.io/doc/en/lb4/) to
+understand how you can continue to add features to this application.
+
+[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
